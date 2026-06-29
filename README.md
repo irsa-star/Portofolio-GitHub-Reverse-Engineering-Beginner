@@ -1,68 +1,47 @@
-````markdown
+# 🍀 Hi there, I'm Sri Irsa Ramayani! 👋
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:16a34a,100:14532d&height=250&section=header&text=Sri%20Irsa%20Ramayani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%F0%9F%8D%80&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;IT+Enthusiast;Web+Developer;Python+Learner;Reverse+Engineering;Always+Keep+Learning+%F0%9F%8D%80" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Computer_Engineering-22C55E?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_Development-16A34A?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reverse_Engineering-15803D?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python_Learner-166534?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Computer+Engineering+Student;IT+Enthusiast;Web+Development+%7C+Reverse+Engineering;Python+Learner;Keep+Learning+%F0%9F%8D%80" alt="Typing SVG" />
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=irsa-star&style=for-the-badge&color=22c55e)
+<img src="https://img.shields.io/badge/IT-Enthusiast-22C55E?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Web-Development-16A34A?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Reverse-Engineering-15803D?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Learner-166534?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=irsa-star\&style=for-the-badge\&color=22c55e)
 
 </div>
 
 ---
 
-# 🍀 Hello, World!
+# 🍀 About Me
 
-```python
-class SriIrsaRamayani:
+### 🇮🇩 Bahasa Indonesia
 
-    def __init__(self):
-        self.name = "Sri Irsa Ramayani"
-        self.username = "irsa-star"
-        self.role = "Computer Engineering Student"
-        self.location = "Yogyakarta, Indonesia 🇮🇩"
+Halo! Saya **Sri Irsa Ramayani**, mahasiswa **S1 Teknik Komputer** di **Universitas Amikom Yogyakarta**.
 
-        self.interests = [
-            "🌐 Web Development",
-            "🐍 Python",
-            "🔍 Reverse Engineering",
-            "☁️ Cloud Computing"
-        ]
+Saya memiliki ketertarikan pada **Web Development**, **Python Programming**, dan **Reverse Engineering**. Saat ini saya sedang membangun portofolio GitHub sebagai tempat mendokumentasikan proses belajar, proyek, serta perjalanan saya di dunia teknologi.
 
-    def motto(self):
-        return "Keep Learning 🍀"
+Saya percaya bahwa setiap proyek kecil adalah langkah menuju kemampuan yang lebih besar.
 
-me = SriIrsaRamayani()
-```
+> **🍀 Keep Learning.**
 
 ---
 
-# 🌸 About Me
+### 🇺🇸 English
 
-Hi 👋
+Hi! I'm **Sri Irsa Ramayani**, a **Computer Engineering** student at **Universitas Amikom Yogyakarta**.
 
-I'm **Sri Irsa Ramayani**, a **Computer Engineering Student** from **Universitas Amikom Yogyakarta**.
+I'm passionate about **Web Development**, **Python Programming**, and **Reverse Engineering**. This GitHub serves as a place to document my learning journey, personal projects, and continuous growth in technology.
 
-I enjoy learning new technologies and documenting my progress through GitHub.
+I believe every small project is another step toward becoming a better developer.
 
-Currently, I'm focusing on:
-
-- 🌐 Web Development
-- 🐍 Python Programming
-- 🔍 Reverse Engineering
-- ☁️ Cloud Computing
-- 💻 Building personal projects
-
-> 🍀 Every project is a new opportunity to learn something valuable.
+> **🍀 Keep Learning.**
 
 ---
 
@@ -70,114 +49,89 @@ Currently, I'm focusing on:
 
 ```bash
 $ whoami
-
 Sri Irsa Ramayani
 
 $ username
-
 irsa-star
 
-$ education
-
+$ role
 Computer Engineering Student
 
-$ currently_learning
-
-Python
-Cloud Computing
+$ focus
+Web Development
 Reverse Engineering
+
+$ currently_learning
+Python
 Object-Oriented Programming
-
-$ hobbies
-
-Coding
-Coffee ☕
-Music 🎧
-Learning 📚
+Cloud Computing
 
 $ motto
-
 Keep Learning 🍀
 ```
 
 ---
 
-# 🌱 Current Learning Journey
+# 🌱 Currently Learning
 
-| 🌿 Skill | Progress |
-|----------|----------|
-| 🐍 Python | ███████░░░ 70% |
-| 🌐 HTML/CSS | █████████░ 90% |
-| 🐘 PHP | ██████░░░░ 60% |
-| 🗄️ MySQL | ███████░░░ 70% |
-| ☁️ Cloud Computing | ███░░░░░░░ 35% |
-| 🔍 Reverse Engineering | ████░░░░░░ 40% |
+* 🐍 Python
+* 🧩 Object-Oriented Programming
+* ☁️ Cloud Computing
+* 🔍 Reverse Engineering
+* 🌐 Web Development
 
 ---
 
 # 💚 Tech Stack
 
-## 👨‍💻 Programming Languages
+### Programming Languages
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,php,html,css,javascript"/>
-
+<p>
+<img src="https://img.shields.io/badge/Python-2ECC71?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-22C55E?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-16A34A?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-## 🗄️ Database
+### Database
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+<p>
+<img src="https://img.shields.io/badge/MySQL-15803D?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## ⚙️ Tools
+### Version Control
 
-<p align="left">
+<p>
+<img src="https://img.shields.io/badge/Git-22C55E?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-166534?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
+### Design Tools
 
+<p>
+<img src="https://img.shields.io/badge/Canva-22C55E?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📂 Featured Projects
 
-### 🌐 Portfolio Website
+### 🌐 Web Portfolio
 
-Personal website showcasing my projects and learning journey.
+A collection of my web development projects and experiments.
 
-🚧 Coming Soon...
+*(Coming Soon)*
 
 ---
 
 ### 🔍 Reverse Engineering Notes
 
-Collection of learning notes, write-ups, and practice labs.
+Learning notes, write-ups, and practice related to Reverse Engineering.
 
-🚧 Coming Soon...
-
----
-
-### 🤖 Python Mini Projects
-
-Small automation scripts and beginner-friendly Python projects.
-
-🚧 Coming Soon...
+*(Coming Soon)*
 
 ---
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=irsa-star&show_icons=true&theme=transparent&hide_border=false&border_color=22C55E&title_color=22C55E&icon_color=22C55E&text_color=7ddc98"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsa-star&layout=compact&theme=transparent&border_color=22C55E&title_color=22C55E&text_color=7ddc98"/>
-
-</div>
 
 ---
 
@@ -185,19 +139,13 @@ Small automation scripts and beginner-friendly Python projects.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=irsa-star&theme=transparent&border=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideNums=22C55E&sideLabels=22C55E&dates=7ddc98"/>
+<img src="https://streak-stats.demolab.com?user=irsa-star&theme=transparent&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&currStreakNum=22c55e&sideNums=22c55e&dates=7ddc98&border=22c55e"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophy
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=irsa-star&theme=matrix&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
 
 ---
 
@@ -205,7 +153,7 @@ Small automation scripts and beginner-friendly Python projects.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irsa-star&theme=github-compact&color=22C55E&line=22C55E&point=7ddc98"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irsa-star&theme=github-compact&color=22c55e&line=22c55e&point=7ddc98"/>
 
 </div>
 
@@ -216,47 +164,6 @@ Small automation scripts and beginner-friendly Python projects.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🎯 Goals 2026
-
-- ✅ Improve Python Skills
-- ✅ Build Portfolio Website
-- 🔄 Learn Cloud Computing
-- 🔄 Learn Reverse Engineering
-- 🔄 Upload Projects Consistently
-- 🔄 Contribute to Open Source
-
----
-
-# 🍀 Random Facts
-
-```text
-🌱 Plant Lover
-
-💚 Favorite Color : Green
-
-🎧 Coding + Music = Productivity
-
-☕ Coffee is optional but appreciated
-
-🐱 Cat videos make coding breaks better
-
-📚 Consistency > Perfection
-```
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
-
-🍀 Keep Learning.
 
 </div>
 
@@ -282,17 +189,23 @@ Small automation scripts and beginner-friendly Python projects.
 
 ---
 
+# 🍀 Fun Fact
+
+* 🌱 I study in my free time.
+* 💚 Green is my favorite color.
+* 💻 I enjoy documenting my learning journey.
+* 📚 I believe consistency beats perfection.
+
+---
+
 <div align="center">
 
-## 🌿 Thanks for Visiting!
+## 🍀 Keep Learning.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,50:16a34a,100:22c55e&height=120&section=footer"/>
+*"Every line of code is a step forward."*
 
-### 🍀 Keep Learning • Keep Growing • Keep Coding
+Thanks for visiting my GitHub Profile!
 
-⭐ Feel free to explore my repositories!
-
-Made with 💚 by **Sri Irsa Ramayani**
+⭐ Don't forget to check out my repositories.
 
 </div>
-````
