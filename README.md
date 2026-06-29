@@ -1,24 +1,38 @@
-# 🍀 README Profile Blueprint
+Ini ide yang bagus. Aku akan membuatnya seperti **Design Brief / Master Prompt**, bukan sekadar prompt biasa. Jadi ketika kamu membuka chat baru, model akan langsung memahami konteks, filosofi desain, gaya visual, hingga standar kualitas yang kita bangun di percakapan ini.
 
-Saya ingin membuat GitHub Profile README yang bersifat premium, modern, interaktif, dan memiliki identitas kuat. 
-
-Jangan membuat README yang terlihat seperti template GitHub pada umumnya. Jadikan blueprint ini sebagai **Master Prompt** atau standar gaya untuk profil saya.
+Aku menyarankan menyimpan prompt ini di Notion atau sebagai file `README_BLUEPRINT.md`.
 
 ---
 
-## 👤 IDENTITAS
+# ☁️ README Profile Blueprint
+
+```text
+Saya ingin membuat GitHub Profile README yang bersifat premium, modern, interaktif, dan memiliki identitas kuat.
+
+Jangan membuat README yang terlihat seperti template GitHub pada umumnya.
+
+======================================================
+IDENTITAS
 ======================================================
 
-**Nama Lengkap:** Sri Irsa Ramayani  
-**Panggilan:** Irsa  
-**Pendidikan:** Mahasiswa S1 Teknik Komputer, Universitas Amikom Yogyakarta  
+Nama
+Ihsanul Fikri
 
-### 🎯 Fokus Utama
+Panggilan
+Ihsan
+
+Pendidikan
+Mahasiswa S1 Teknik Komputer
+Universitas Amikom Yogyakarta
+
+Fokus
+
 - Cybersecurity
 - Blockchain
 - Cryptography
 
-### 📚 Topik Favorit
+Topik favorit
+
 - Operating System
 - Linux
 - Computer Network
@@ -27,35 +41,62 @@ Jangan membuat README yang terlihat seperti template GitHub pada umumnya. Jadika
 - Reverse Engineering
 - AI for Cybersecurity
 
-### ⚙️ Tech Stack & Tools
-- **Bahasa Utama:** Python
-- **Framework:** Flask
-- **Tools & Environment:** MySQL, Azure, Wireshark, Git, Docker, Arch Linux, Debian
+Bahasa utama
 
----
+- Python
 
-## 🍀 FILOSOFI README
+Framework
+
+- Flask
+
+Tools
+
+- MySQL
+- Azure
+- Wireshark
+- Git
+- Docker
+- Arch Linux
+- Debian
+
+======================================================
+FILOSOFI README
 ======================================================
 
-### ❌ DILARANG (Apa yang tidak saya inginkan)
-Tolong hindari elemen-elemen berikut agar tidak terkesan klise atau berlebihan:
-- ❌ Tema Hacker yang terlalu *edgy* atau Anonymous
-- ❌ Efek Matrix / Green Terminal klasik
-- ❌ Nuansa Dark Red (merah gelap) atau Neon yang mencolok
-- ❌ Ornamen Skull (Tengkorak)
-- ❌ Layout pasaran yang banyak dipakai orang di GitHub
+Saya TIDAK ingin README bertema
 
-### ✅ DIWAJIBKAN (Vibe yang saya inginkan)
-Sebaliknya, saya ingin menerapkan tema **Semanggi Engineering**:
-- 🍀 **Tema Visual Utama:** Semanggi (Clover) / Daun
-- 🎨 **Palet Warna:** Light Green, Soft Green, White
-- 🌿 **Nuansa Desain:** Clean, Minimal, Professional, namun tetap Friendly
-- 🌸 **Gaya Penyampaian:** *Anime Slice of Life* (santai, segar, dan menenangkan)
+❌ Hacker
+❌ Matrix
+❌ Green Terminal
+❌ Dark Red
+❌ Anonymous
+❌ Skull
+❌ Neon Hacker
 
----
+Sebaliknya saya ingin tema
 
-## 📝 INSTRUKSI UNTUK AI (Jika merancang ulang profil)
-1. **Gunakan data identitas** di atas sebagai teks utama/badge di profil saya.
-2. **Beri sentuhan hijau (Green/Soft Green)** pada setiap shield/badge yang digenerate.
-3. **Ganti ikon standar** dengan emoji yang relevan dengan tema alam/semanggi (🍀, 🌿, 🍃).
-4. Buat pengantar (Bio) yang ramah dan mencerminkan semangat belajar (*growth*) layaknya daun semanggi yang tumbuh.
+☁️ Sky Engineering
+
+Visual
+
+Light Blue
+
+Soft Green
+
+White
+
+Cloud
+
+Blue Sky
+
+Anime Slice of Life
+
+Clean
+
+Minimal
+
+Professional
+
+Friendly
+... (453 lines left)
+
