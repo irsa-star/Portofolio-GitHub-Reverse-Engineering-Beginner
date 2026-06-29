@@ -131,15 +131,6 @@ Learning notes, write-ups, and practice related to Reverse Engineering.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=irsa-star&show_icons=true&theme=transparent&title_color=22c55e&icon_color=22c55e&text_color=7ddc98&border_color=22c55e"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsa-star&layout=compact&theme=transparent&title_color=22c55e&text_color=7ddc98&border_color=22c55e"/>
-
-</div>
 
 ---
 
